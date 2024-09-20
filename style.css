@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+
+.mainfirst{
+    height: 730px;
+    width: 81%;
+    background-color: white;
+    border: 3px solid black;
+}
+
+
+.outer{
+    height: 150px;
+    width: 96%;
+    margin-top: 10px;
+    border:2px solid black;
+    background-color: blueviolet;
+    margin-bottom: 20px;
+}
+
+.main{
+    height: 500px;
+    width: 96%;
+    background-color: white;
+    /* border: 3px solid black; */
+}
+
+.fistcolom{
+    height: 500px;
+    width: 31%;
+    border: 2px solid black;
+    background-color: blue;
+    float: left;
+    margin: 5px 3% 30px 0px;
+}
+
+.secondcolom{
+    height: 500px;
+    width: 30%;
+    border: 2px solid black;
+    background-color: orange;
+    float: left;
+    margin: 5px 4.5% 30px 0px;
+}
+
+.thirdcolom{
+    height: 500px;
+    width: 30%;
+    border: 2px solid black;
+    background-color: greenyellow;
+    float: left;
+    margin: 5px 0px 0px 0px;
+}
